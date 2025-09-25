@@ -15,7 +15,7 @@ load_dotenv()
 
 # 환경 변수에서 API 키 가져오기
 api_key = os.getenv("OPENAI_API_KEY")
-print(api_key[:6])
+print(api_key[:5])
 
 # 입력 스키마 정의
 class QuestionInput(BaseModel):

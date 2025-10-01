@@ -1,2 +1,3 @@
 .env
 src/mylangchain_app/db/**
+src/mylangchain_app/Task/Task4_2_copy.ipynb
